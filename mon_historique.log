@@ -1,0 +1,108 @@
+    1  sudo apt-add-repository -y ppa:teejee2008/ppa
+    2  sudo apt-get update
+    3  sudo apt-get install ukuu
+    4  sudo dpkg --configure -a
+    5  sudo apt-get install ukuu
+    6  df
+    7  lsb_release -a
+    8  flux
+    9  yaourt sublim text
+   10  Yaourt sublim text
+   11  yaourt sublim text
+   12  yaourt atom
+   13  sudo apt install sublime
+   14  sudo apt install sublime-text
+   15  wget-q0-https://download.sublimetext.com/sublimehq-pub.gpg sudo apt-key add
+   16  sudo apt-get install apt-transport-https
+   17  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   18  sudo apt-get update
+   19  sudo apt-get install sublime-text
+   20  pwd
+   21  cd
+   22  cd..
+   23  ls
+   24  cd Images
+   25  clear
+   26  cd tuto
+   27  less
+   28  cat
+   29  vim ListDir.sh
+   30  head -n 20 people
+   31  ls
+   32  cd
+   33  pwd
+   34  ls/home/stephan
+   35  ls -a
+   36  clear
+   37  ls
+   38  cp
+   39  cd
+   40  clear
+   41  cd
+   42  clear
+   43  pwd
+   44  cd home
+   45  cd home/stephan
+   46  cd home
+   47  cd Documents/
+   48  cd clear
+   49  clear
+   50  pwd
+   51  cd Documents
+   52  cd clmystery-master
+   53  head -n 20 people
+   54  cd mystery
+   55  cd interviews
+   56  cd people
+   57  head -n 20 people
+   58  head -n
+   59  clear
+   60  cd
+   61  ls
+   62  clear
+   63  pwd
+   64  Documents/
+   65  Documents
+   66  cd Documents/
+   67  cd clmystery-master.zip
+   68  cd clmystery-master
+   69  cd mystery
+   70  cd people
+   71  head -n 20 people
+   72  "CLUE" crime scene
+   73  "CLUE" crimescene
+   74  CLUE crimescene
+   75  grap "CLUE" crimescene
+   76  grep "CLUE" crimescene
+   77  'head' people
+   78  'head' vehicles
+   79  grep "Annabel" people
+   80  head -n 173 streets/Mattapan_Street| tail -n1
+   81  grep "Honda" vehicles
+   82  grep "Blue" vehicles
+   83  grep "L337" vehicles
+   84  head
+   85  grep -a5 "L337" vehicles
+   86  cat Fitness_Galaxy AAA United_MileagePlus|grep "John Smith"
+   87  grep "Jhon Smith"
+   88  grep -a5 "Honda" vehicles | grep -a5 "Blue" | grep -a5 "L337"
+   89  z
+   90  grep "Joe Germuska" people
+   91  head -n 275 streets/Plain_Street | tail -n1
+   92  head -n275 streets/Plain_Street | tail -n1
+   93  cd streets
+   94  cd ..
+   95  head -n275 streets/Plainfield_Street | tail -n1
+   96  cat #29741223
+   97  grep "Jeremy Bowers" people
+   98  head -n284 streets/Dunstable_road | tail -n1
+   99  head -n284 streets/Dunstable_road | -284 tail -n1
+  100  head -n284 streets/Dunstablr_road | tail -n1
+  101  head -n284 streets/Dunstable_road | tail -n1
+  102  head -284 streets/Dunstable_road | tail -n1
+  103  head -n284 streets/Dunstable_Road | -284 tail -n1
+  104  head -n284 streets/Dunstable_Road | tail -n1
+  105  grep "Jacqui Maher" people
+  106  head -n224 streets/Andover_Road | tail -n1
+  107  echo JEREMY BOWER
+  108  history > mon_historique.log
